@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @MerahRed
-- New GameDeveloper
-- godot user
-- never gonna give you up
+- @MerahRed
+
+- ⚙️
+- Beginner Game & App Developer
+- Godot & Flutter user
+- 
 - 
 
 <!---
