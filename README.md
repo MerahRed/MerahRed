@@ -1,10 +1,8 @@
 - @MerahRed
 
-- ⚙️
-- Beginner Game & App Developer
-- Godot & Flutter user
-- 
-- 
+Yo!
+Still learning here!
+Novice App and Game developer
 
 <!---
 MerahRed/MerahRed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
